@@ -7,5 +7,10 @@
 button {
 	height: 36px;
 	line-height: 27px;
-	color: #f2f2f2f;
+	color: #f2f2f2f;	
+}
+
+#searchbox {
+	width: 484px; 
+	height: 38px;
 }
