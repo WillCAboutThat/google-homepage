@@ -1,0 +1,11 @@
+#logo {
+	text-align: center;
+	text-align: -webkit-center;
+	height: 233px;
+	margin-top: 89px;
+}
+button {
+	height: 36px;
+	line-height: 27px;
+	color: #f2f2f2f;
+}
