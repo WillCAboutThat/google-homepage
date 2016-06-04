@@ -61,7 +61,6 @@ button:hover {
 
 #buttons {
 	margin-top: 30px;
-=======
 	color: #757575;
 	font-weight: bold;	
 	border: 1px solid #f2f2f2;
@@ -71,7 +70,6 @@ button:hover {
 	text-align: center;
 	padding: 0 16px;
 	border-radius: 2px;
->>>>>>> master
 }
 
 #searchbox {
@@ -79,7 +77,6 @@ button:hover {
 	height: 38px;
 }
 
-<<<<<<< HEAD
 ul.nav {
 	list-style: none;
 	font-size: 13px;
@@ -90,7 +87,8 @@ ul.nav li {
 	margin-right: 15px;
 	opacity: 0.75;
 	margin-top: 10px;
-=======
+}
+
 #searchform {
 	text-align: center;
 	height: 38px;
@@ -99,14 +97,12 @@ ul.nav li {
 button:hover {
 	border: 1px solid #c6c6c6;
 	color: #222;
->>>>>>> master
 }
 
 .navigation {
 	float: right;
 }
 
-<<<<<<< HEAD
 #search-form {
 	width: 540px;
 	text-align: center;
@@ -148,7 +144,7 @@ button:hover {
 .footer-link li {
 	float: left;
 	margin-right: 15px;
-=======
+}
 #nav ul {
 	float: right;
 	margin-right: 20px;
@@ -167,10 +163,4 @@ button:hover {
 
 #nav a:hover {
 	text-decoration: underline;
-}
-
-#apps {
-	background-image: url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
-	background-size: 132px 38px;
->>>>>>> master
 }
